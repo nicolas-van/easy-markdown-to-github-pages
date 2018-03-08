@@ -62,6 +62,7 @@ That's it! Now you can juste use the link provided by Github to access you websi
 
 * Any markdown file in your repository will display in your Github Pages website. You just have to use the same path to access it and replace the `.md` extension by `.html`.
 * To make links between your Markdown files just use a relative path to the other Markdown file. The configuration you copy pasted in your `_config.yml` provides a plugin to convert those URLs. So your Markdown files will have correct links both in Github and Github Pages.
+* The index page of your website can be a `index.md` file or a `README.md` file. If both exists the `index.md` file has priority.
 * You should be able to use any [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Contributing
