@@ -1,2 +1,6 @@
 theme: jekyll-theme-slate
-permalink: :title.yop
+gems:
+  - jekyll-relative-links
+relative_links:
+  enabled:     true
+  collections: false
