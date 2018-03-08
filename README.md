@@ -34,7 +34,9 @@ include:
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE
+
 ```
 
 It's basically just a few tuning of Github Pages' default configuration to have a better handling of Markdown files.
