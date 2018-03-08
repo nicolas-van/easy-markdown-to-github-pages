@@ -4,3 +4,5 @@ gems:
 relative_links:
   enabled:     true
   collections: false
+include:
+  - CONTRIBUTING.md
