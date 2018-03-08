@@ -54,6 +54,6 @@ You must also choose a theme:
 
 ![](./printscreen3.png)
 
-That's it! Now you just need to click the link provided by Github to access you website:
+That's it! Now you can juste use the link provided by Github to access you website:
 
 ![](./printscreen4.png)
