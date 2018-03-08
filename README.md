@@ -41,3 +41,5 @@ See the [test page](./test.md)
 See the [contribution guide](./CONTRIBUTING.md)
 
 test
+
+See the [license](LICENSE.md)
