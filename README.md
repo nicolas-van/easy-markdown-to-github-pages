@@ -44,8 +44,16 @@ It's basically just a few tuning of Github Pages' default configuration to have 
 
 On the Github page of your project go into `Settings > Options > Github Pages`:
 
-![printscreen 1](./printscreen1.png)
+![](./printscreen1.png)
 
 In the `Source` option, select `master branch` then `Save`:
 
-![printscreen 2](./printscreen2.png)
+![](./printscreen2.png)
+
+You must also choose a theme:
+
+![](./printscreen3.png)
+
+That's it! Now you just need to click the link provided by Github to access you website:
+
+![](./printscreen4.png)
