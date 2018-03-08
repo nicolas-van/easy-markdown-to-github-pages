@@ -11,3 +11,33 @@ In fact you can consult this guide both in Github and in Github Pages, at your p
 
 * [Here is the link to the Github version](https://github.com/nicolas-van/easy-markdown-to-github-pages)
 * [Here is the link to the Github Pages version](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
+
+## Step by step instructions
+
+### Determine the repository where you want to activate Github Pages
+
+You can of course create a new repository if you want.
+
+### Create the `_.config.yml` file
+
+That file should be created on the root of your repository. Here is some content to copy-paste in it:
+
+```
+gems:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+```
+
+It's basically just a few tuning of Github Pages' default configuration to have a better handling of Markdown files.
+
+### Activate Github Pages in your repository configuration
+
