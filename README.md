@@ -4,7 +4,7 @@ This little guide demonstrate how to turn any [Github](http://github.com) reposi
 
 * You don't need to use the command line or anything other than your browser.
 * It doesn't require any knowledge in Jekyll.
-* It's completely compatible with any bunch of markdown files you already have in any existing repository without any modification to those files. (Including the `README.md`, `CONTRIBUTING.md` or `LICENSE.md` that most people create in their repositories by convention.)
+* It's completely compatible with any bunch of markdown files you already have in any existing repository without any modification to those files.
 * The markdown files will remain just as readable and usable in Github than in your website.
 
 In fact you can consult this guide both in Github and in Github Pages, at your preference:
