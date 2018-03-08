@@ -41,3 +41,6 @@ It's basically just a few tuning of Github Pages' default configuration to have 
 
 ### Activate Github Pages in your repository configuration
 
+On the Github page of your project go into `Settings > Options > Github Pages`.
+
+![printscreen 1](./printscreen1.png)
