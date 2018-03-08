@@ -6,3 +6,4 @@ relative_links:
   collections: false
 include:
   - CONTRIBUTING.md
+  - README.md
