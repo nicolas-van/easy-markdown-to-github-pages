@@ -1,45 +1,13 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/nicolas-van/jekylltest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This little guide demonstrate how to turn any [Github](http://github.com) repository with any bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* You don't need to use the command line or anything other than your browser.
+* It doesn't require any knowledge in Jekyll.
+* It's completely compatible with any bunch of markdown files you already have in any existing repository without any modification to those files. (Including the `README.md`, `CONTRIBUTING.md` or `LICENSE.md` that most people create in their repositories by convention.)
+* The markdown files will remain just as readable and usable in Github than in you website.
 
-### Markdown
+In fact you can consult this guide both in Github and in Github Pages, at your preference:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nicolas-van/jekylltest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-See the [test page](./test.md)
-
-See the [contribution guide](./CONTRIBUTING.md)
-
-test
-
-See the [license](LICENSE.md)
+* [Here is the link to the Github version](https://github.com/nicolas-van/easy-markdown-to-github-pages)
+* [Here is the link to the Github Pages version](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
