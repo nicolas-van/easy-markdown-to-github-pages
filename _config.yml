@@ -2,8 +2,8 @@ theme: jekyll-theme-slate
 gems:
   - jekyll-relative-links
 relative_links:
-  enabled:     true
-  collections: false
+  enabled: true
+  collections: true
 include:
   - CONTRIBUTING.md
   - README.md
