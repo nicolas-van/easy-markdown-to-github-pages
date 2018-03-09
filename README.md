@@ -37,7 +37,7 @@ include:
   - COPYING.md
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
-  - ISSUE_TEMPLATE
+  - ISSUE_TEMPLATE.md
 ```
 
 It's basically just a few tuning of Github Pages' default configuration to have a better handling of Markdown files.
