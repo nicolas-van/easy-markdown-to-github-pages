@@ -67,6 +67,14 @@ That's it! Now you can juste use the link provided by Github to access you websi
 * The index page of your website can be a `index.md` file or a `README.md` file. If both exists the `index.md` file has priority.
 * You should be able to use any [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+## Recipes
+
+Since the purpose of this guide is to demonstrate how to publish multiple Markdown files as a website but I don't have much more to say I will propose you some delicious recipes instead:
+
+* [Escalivada](./recipes/Escalivada.md)
+* [Gazpacho](./recipes/Gazpacho.md)
+* [Pasta all'amatriciana](./recipes/Pasta_all_amatriciana.md)
+
 ## Contributing
 
 See the [Contribution Guide](./CONTRIBUTING.md).
