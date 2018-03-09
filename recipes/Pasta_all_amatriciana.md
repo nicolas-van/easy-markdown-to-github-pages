@@ -31,10 +31,6 @@ Serve straightway, finishing it off with some more grated pecorino on top if you
 
 Use lard to cook the guanciale, not olive oil as it's too acid for this recipe.
 
-## Related
-
-[Pasta alla carbonara](./pasta_alla_carbonara.md).
-
 ## Allergies and dietary requirements
 
 * Nut free
