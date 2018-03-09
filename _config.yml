@@ -12,5 +12,8 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+markdown: kramdown
+kramdown:
+  input: GFM
 
 theme: jekyll-theme-midnight
