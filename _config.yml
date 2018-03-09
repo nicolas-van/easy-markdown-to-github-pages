@@ -10,7 +10,7 @@ include:
   - COPYING.md
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
-  - ISSUE_TEMPLATE
-  - PULL_REQUEST_TEMPLATE
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-midnight
