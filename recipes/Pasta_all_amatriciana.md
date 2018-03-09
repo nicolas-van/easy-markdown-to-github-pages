@@ -38,7 +38,7 @@ Use lard to cook the guanciale, not olive oil as it's too acid for this recipe.
 
 ## License
 
-This recipe was originally published on this repository: https://github.com/ustwo/recipe-book
+This recipe was originally published on [this repository](https://github.com/ustwo/recipe-book).
 
 > All our "original" recipes shared under Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 >
