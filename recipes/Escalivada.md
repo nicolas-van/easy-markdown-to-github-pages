@@ -50,7 +50,7 @@ Escalivada goes really well with Spanish tortilla de patata or on the side of a 
 
 ## License
 
-This recipe was originally published on this repository: https://github.com/ustwo/recipe-book
+This recipe was originally published on [this repository](https://github.com/ustwo/recipe-book).
 
 > All our "original" recipes shared under Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 >
