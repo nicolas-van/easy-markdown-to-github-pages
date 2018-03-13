@@ -25,7 +25,7 @@ You can of course create a new repository if you want.
 That file should be created on the root of your repository. Here is some content to copy-paste in it:
 
 ```
-gems:
+plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
