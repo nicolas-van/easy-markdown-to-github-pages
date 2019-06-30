@@ -20,7 +20,7 @@ In fact this guide uses the same configuration and can be read both in Github an
 
 You can of course create a new repository if you want.
 
-### Create the `_.config.yml` file
+### Create the `_config.yml` file
 
 That file should be created on the root of your repository. Here is some content to copy-paste in it:
 
