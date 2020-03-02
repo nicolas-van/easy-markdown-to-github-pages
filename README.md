@@ -1,6 +1,6 @@
 # Easy Markdown to Github Pages
 
-## Introduction
+## Introduction 
 
 This little guide demonstrate how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
