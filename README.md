@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This little guide demonstrate how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+This little guide demonstrates how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
 * You don't need to use the command line or anything other than your browser.
 * It doesn't require any knowledge in Jekyll.
@@ -24,7 +24,7 @@ You can of course create a new repository if you want.
 
 That file should be created on the root of your repository. Here is some content to copy-paste in it:
 
-```
+```yaml
 plugins:
   - jekyll-relative-links
 relative_links:
