@@ -20,12 +20,12 @@ Traditionally the recipe had no tomatoes, but nowadays this is the recipe as it'
 Bring 2 liters of water to boil, then add 20g of salt. Cook the pasta for around 1 minute less than the time you read on the box.
 
 In the meantime put a pan on high heat.
-Put the lard in it, and once it's hot bring the heat to moderate and start cooking the chilli and the guanciale, cut into stripes of consistent size, for a couple of minutes until it's golden.
+Put the lard in it, and once it's hot, bring the heat to moderate and start cooking the chilli and the guanciale, then cut it into stripes of consistent size, for a couple of minutes until it's golden.
 Once the guanciale is ready (not too crunchy, but the fat should render a bit), put the tomatoes in the pan and reduce it.
 
 When the sauce reaches the thickness you like, remove the chilli and put pasta and pecorino in the pan, stirring thoroughly.
 
-Serve straightway, finishing it off with some more grated pecorino on top if you like.
+Serve straightaway, finishing it off with some more grated pecorino on top if you like.
 
 ## Tips and tricks
 
