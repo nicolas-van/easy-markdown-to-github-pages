@@ -57,7 +57,7 @@ You must also choose a theme:
 
 ![](./printscreen3.png)
 
-That's it! Now you can juste use the link provided by Github to access you website:
+That's it! Now you can just use the link provided by Github to access your website:
 
 ![](./printscreen4.png)
 
@@ -74,7 +74,7 @@ That's it! Now you can juste use the link provided by Github to access you websi
 
 ## Recipes
 
-Since the purpose of this guide is to demonstrate how to publish multiple Markdown files as a website but I don't have much more to say I will propose you some delicious recipes instead:
+Since the purpose of this guide is to demonstrate how to publish multiple Markdown files as a website but I don't have much more to say I will propose to you some delicious recipes instead:
 
 * [Escalivada](./recipes/Escalivada.md)
 * [Gazpacho](./recipes/Gazpacho.md)
