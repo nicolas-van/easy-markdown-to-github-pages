@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This little guide demonstrate how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+This little guide demonstrates how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
 * You don't need to use the command line or anything other than your browser.
 * It doesn't require any knowledge in Jekyll.
@@ -24,7 +24,7 @@ You can of course create a new repository if you want.
 
 That file should be created on the root of your repository. Here is some content to copy-paste in it:
 
-```
+```yaml
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -57,7 +57,7 @@ You must also choose a theme:
 
 ![](./printscreen3.png)
 
-That's it! Now you can juste use the link provided by Github to access you website:
+That's it! Now you can just use the link provided by Github to access your website:
 
 ![](./printscreen4.png)
 
@@ -74,7 +74,7 @@ That's it! Now you can juste use the link provided by Github to access you websi
 
 ## Recipes
 
-Since the purpose of this guide is to demonstrate how to publish multiple Markdown files as a website but I don't have much more to say I will propose you some delicious recipes instead:
+Since the purpose of this guide is to demonstrate how to publish multiple Markdown files as a website but I don't have much more to say I will propose to you some delicious recipes instead:
 
 * [Escalivada](./recipes/Escalivada.md)
 * [Gazpacho](./recipes/Gazpacho.md)
