@@ -22,15 +22,15 @@ Particularly good in Southern Spain where people make litres of it and keep it b
 
 ## How to do it
 
-Give a good rinse and clean all the ingredients, peel the apple. If you peel the tomatoes you'll get a smoother gazpacho.
+Give a good rinse and clean all the ingredients, then peel the apple. If you peel the tomatoes you'll get a smoother gazpacho.
 
-Cut everything in chunks and throw it to the blender. Give it a good bash and when it's liquid enough season with the olive oil, vinegar and salt. Spin it, taste it and repeat the process until you are happy with the seasoning (which is quite personal).
+Cut everything into chunks and throw into the blender. Give it a good bash and when it's liquid enough season it with the olive oil, vinegar and salt. Spin it, taste it and repeat the process until you are happy with the seasoning (which is quite personal).
 
 Optional: if you put it through a sieve you'll remove all the seeds and peels, getting a much, much smoother version.
 
 If you have bread to add, do it now and put the whole thing through the blender again (don't do this before going through the sieve though!).
 
-Bottle it for easy serving and cool it down in the fridge for say 1 hour, but anything over that would do.
+Bottle it for easy serving and let it cool down in the fridge for say 1 hour, but anything over that would do.
 
 Enjoy.
 

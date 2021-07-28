@@ -15,19 +15,19 @@ Escalivada is typical from Catalunya.
 
 ## How to do it
 
-Pre-heat the oven at 180.
+Pre-heat the oven to 180 degrees.
 
 Give all the ingredients a good clean. With a knife remove the bottom of the peppers and get all the seeds out.
 
 Wrap peppers and aubergines in kitchen foil (you can wrap 2 peppers together) and to the oven for 1 hour and a half. Turn them around every 30 minutes.
 
-When done, take them out and let them cool off for easier cleaning, at least 45 minutes.
+When done, take them out and let them cool off for easier cleaning, at least for 45 minutes.
 
 Peel the garlic and cut it as small as you can with the knife.
 
-Now, put on an apron to peel off everything because it gets messy. When done cut it all small and into a big bowl.
+Now, put on an apron to peel off everything because it gets messy. When done cut it all into small pieces and into a big bowl.
 
-Thrown in the garlic and start seasoning little by little to your taste (but don't be shy with the olive oil and the vinegar), stirring with a fork.
+Throw in the garlic and start seasoning little by little to your taste (but don't be shy with the olive oil and the vinegar), stirring with a fork.
 
 Done, now you can eat it as it is or cold from the fridge during the next 4/5 days.
 
