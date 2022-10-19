@@ -1,4 +1,4 @@
-## Week 1 progress# Week 1
+## Week 1 progress
 
 ## Requirements Step
 
@@ -7,8 +7,6 @@ Working on the files:
 - `create_schema.sql`
 - `dump_v2.sql`
 Users and tokens are being loaded using the hardcoded code stored in users.json and tokens.json. Changing from loading from these json files to loading from tables (by executing sql query).
-
-https://github.com/AmitPandey-Research/dfs-backend/issues/3
 
 ## Design Step
 - Tech stack being used: `NodeJs , MySql`
