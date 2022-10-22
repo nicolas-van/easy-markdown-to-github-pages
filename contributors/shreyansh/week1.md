@@ -47,8 +47,15 @@ To start backend server
     * Displaying error when the queried database is empty.
     * If dataset is private then checking whether the owner has granted permission or not and whether the corresponding error is displayed.
     * Checking whether the current user is able to download the dataset directly without requiring a request.
-
-
 ***
+
+## Current Work
+
+* Set Usage Agreement:
+    * 2 possible cases, (only one of the params will be given). in both cases, body of the post request will contain a long text. update on backend with long text.[Backend].
+* Upload model page based on latest changes [Frontend].
+***
+
+<!-- *** -->
 
 
